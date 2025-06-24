@@ -61,9 +61,3 @@ This Power BI dashboard analyzes the sales performance of a fictional *Global Su
 
 ---
 
-## 📂 File Structure
-```
-📁 Global Superstore Project/
- └── Global Superstore Project.pbix
- └── README.md
-```
