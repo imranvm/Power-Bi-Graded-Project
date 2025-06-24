@@ -1,7 +1,6 @@
 
 # 📊 Global Superstore Dashboard – Power BI Project
 
-## 👤 Student Information
 - **Name:** Imran Mansoori
 - **Course:** Certified Power Data Analyst (CPDA) – Batch 2
 - **Project:** Power BI Dashboard – Global Superstore
